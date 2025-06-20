@@ -1,0 +1,15 @@
+D:\my projects\UserManagementSystem\UserManagementSystem.Application\bin\Debug\net9.0\UserManagementSystem.Application.deps.json
+D:\my projects\UserManagementSystem\UserManagementSystem.Application\bin\Debug\net9.0\UserManagementSystem.Application.dll
+D:\my projects\UserManagementSystem\UserManagementSystem.Application\bin\Debug\net9.0\UserManagementSystem.Application.pdb
+D:\my projects\UserManagementSystem\UserManagementSystem.Application\bin\Debug\net9.0\UserManagementSystem.Domain.dll
+D:\my projects\UserManagementSystem\UserManagementSystem.Application\bin\Debug\net9.0\UserManagementSystem.Domain.pdb
+D:\my projects\UserManagementSystem\UserManagementSystem.Application\obj\Debug\net9.0\UserManagementSystem.Application.csproj.AssemblyReference.cache
+D:\my projects\UserManagementSystem\UserManagementSystem.Application\obj\Debug\net9.0\UserManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\my projects\UserManagementSystem\UserManagementSystem.Application\obj\Debug\net9.0\UserManagementSystem.Application.AssemblyInfoInputs.cache
+D:\my projects\UserManagementSystem\UserManagementSystem.Application\obj\Debug\net9.0\UserManagementSystem.Application.AssemblyInfo.cs
+D:\my projects\UserManagementSystem\UserManagementSystem.Application\obj\Debug\net9.0\UserManagementSystem.Application.csproj.CoreCompileInputs.cache
+D:\my projects\UserManagementSystem\UserManagementSystem.Application\obj\Debug\net9.0\UserMana.0AF21CB2.Up2Date
+D:\my projects\UserManagementSystem\UserManagementSystem.Application\obj\Debug\net9.0\UserManagementSystem.Application.dll
+D:\my projects\UserManagementSystem\UserManagementSystem.Application\obj\Debug\net9.0\refint\UserManagementSystem.Application.dll
+D:\my projects\UserManagementSystem\UserManagementSystem.Application\obj\Debug\net9.0\UserManagementSystem.Application.pdb
+D:\my projects\UserManagementSystem\UserManagementSystem.Application\obj\Debug\net9.0\ref\UserManagementSystem.Application.dll

@@ -1,0 +1,11 @@
+D:\my projects\UserManagementSystem\UserManagementSystem.Domain\bin\Debug\net9.0\UserManagementSystem.Domain.deps.json
+D:\my projects\UserManagementSystem\UserManagementSystem.Domain\bin\Debug\net9.0\UserManagementSystem.Domain.dll
+D:\my projects\UserManagementSystem\UserManagementSystem.Domain\bin\Debug\net9.0\UserManagementSystem.Domain.pdb
+D:\my projects\UserManagementSystem\UserManagementSystem.Domain\obj\Debug\net9.0\UserManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\my projects\UserManagementSystem\UserManagementSystem.Domain\obj\Debug\net9.0\UserManagementSystem.Domain.AssemblyInfoInputs.cache
+D:\my projects\UserManagementSystem\UserManagementSystem.Domain\obj\Debug\net9.0\UserManagementSystem.Domain.AssemblyInfo.cs
+D:\my projects\UserManagementSystem\UserManagementSystem.Domain\obj\Debug\net9.0\UserManagementSystem.Domain.csproj.CoreCompileInputs.cache
+D:\my projects\UserManagementSystem\UserManagementSystem.Domain\obj\Debug\net9.0\UserManagementSystem.Domain.dll
+D:\my projects\UserManagementSystem\UserManagementSystem.Domain\obj\Debug\net9.0\refint\UserManagementSystem.Domain.dll
+D:\my projects\UserManagementSystem\UserManagementSystem.Domain\obj\Debug\net9.0\UserManagementSystem.Domain.pdb
+D:\my projects\UserManagementSystem\UserManagementSystem.Domain\obj\Debug\net9.0\ref\UserManagementSystem.Domain.dll
